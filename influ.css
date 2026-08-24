@@ -41,27 +41,60 @@ body {
     width: 200px;
 }
 
+.ini {
+    font-family: sans-serif;
+    position: absolute;
+    top: 85px;
+    left: 900px;
+}
+
+.traco {
+    border: 3px solid black;
+    border-radius: 25px;
+    width: 200px;
+    background-color: black;
+    height: 1px;
+    position: absolute;
+    left: 845px;
+    top: 145px;
+}
+
 .principal {
     position: absolute;
     left: 50%;
-    top: 35%;
+    top: 45%;
     transform: translate(-50%, -50%);
-    background-color: yellow;
-    width: 800px;
-    height: 350px;
+    background:
+        linear-gradient(rgba(238, 174, 0, 0.8), rgba(238, 214, 0, 0.8)),
+    url("corrida\ fundo.png");
+
+    background-size: cover;
+    background-position: center;
+    width: 900px;
+    height: 450px;
     border-radius: 50px;
 }
 
 .maxve {
     position: absolute;
-    top: 15px;
-    left: 45px;
+    font-family: sans-serif;
+    color: white;
+    top: 45px;
+    left: 55px;
 }
 
 .maxve2 {
     position: absolute;
-    top: 80px;
+    color: white;
+    font-family: sans-serif;
+    top: 120px;
     left: 15px;
+}
+
+.maxpng {
+    position: absolute;
+    left: 495px;
+    top: -108px;
 }
 
 .criar_conta {
