@@ -25,6 +25,7 @@ body {
     text-align: center;
     font-family: sans-serif;
     font-size: 45px;
+    color: white;
 }
 
 
@@ -38,13 +39,14 @@ body {
     font-family: fantasy;
     border-radius: 100px;
     font-size: 20px;
+   
 }
 
 .logar {
     position: absolute; 
     left: 1380px;
     background-color: transparent;
-    border: 5px solid black;
+    border: 5px solid rgb(255, 255, 255);
     border-radius: 25px;
     height: 50px;
     width: 200px;
@@ -95,8 +97,10 @@ body {
 }
 
 .cabecalho {
-  width: 0px;
+  width: 1897px;
   background-color: #000000;
+  height: 100px;
+  padding: 10px;
 }
 
 .maxve {
@@ -167,6 +171,7 @@ body {
 
 .sobreb:hover {
     background-color:#B17903 ;
+
 }
 
 .sobreb {
@@ -507,3 +512,4 @@ body {
   outline-offset:3px;
 }
  
+
