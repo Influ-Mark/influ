@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="image-removebg-preview.png" type="image/x-icon">
+    <link rel="stylesheet" href="influ.css">
+    <title>influ-mark</title>
+</head>
+<body>
+    <!--Tela inicial-->
+    <container class="cabeca">
+        <h1 class="title">I<span style="color:rgb(255, 209, 3)">N</span>FLU-MA<span style="color: rgb(255, 209, 3);">R</span>K               <button class="logar"> <strong>LOGIN</strong> </button>     <button class="cadastro"><strong>CRIAR CONTA</strong></button></h1>
+    </container>
+
+    <h1 class="ini">INICIO</h1>
+    <button class="traco"></button>
+
+    <!--Quadradão principal-->
+    <container class="principal">
+        <h1 class="maxve">M<span style="color: rgb(255, 209, 3);">A</span>X V<span style="color: rgb(255, 209, 3);">E</span>RSTAP<span style="color: rgb(255, 209, 3);">P</span>EN</h1>
+        <h2 class="maxve2">Max Verstappen é um dos maiores <br> nomes da Fórmula 1, <br> conhecido por seu estilo agressivo <br> e sua habilidade em manter a consistência <br> em todas as corridas. Desde sua estreia <br> na Fórmula 1 em 2015, Verstappen tem <br> conquistado  múltiplos títulos mundiais.</h2>
+        <img src="maxver.png" alt="" class="maxpng">
+    </container>
+    <div class="inf">
+        <sr>
+            <H3>
+                INFORMAÇÕES
+            </H3>
+            <button class="traco2"></button>
+                </div>
+            
+                <div class="sobre">
+            <button class="sobreb"><strong>SOBRE-NOS</strong></button>
+                </div>
+            
+                 <div class="queroc">
+            <button class="querocb"><strong>QUERO CONTRATAR</strong></button>
+                 </div>
+            
+                 <div class="pagamento">
+            <button class="pagamentob"><strong class="pagas">PAGAMENTO</strong></button>
+                </div>
+            
+            
+                <div class="ver">
+            <button class="vermais">VER MAIS</button>
+                </div>
+        </sr>
+
+     <a href="tom.html"><container class="tomhola">
+        <img src="v77y0ci8-removebg-preview.png" alt="" class="tomholaimg">
+     </container> </a>
+     
+
+     
+     <a href="cristiano.html"><container class="cristiano">
+        <img src="cristiano.png" alt="" class="cristianoimg">
+     </container></a>
+     
+<div class="card">
+  <div class="top-bar"></div>
+
+  <div class="logo">
+    <span class="logo-dot"></span>
+    <span class="logo-text">INFLU-MARK</span>
+  </div>
+
+  <h1 class="title">CONTRA<span class="title-yellow">TE</span></h1>
+
+  <p class="text">Contrate e negocie publicidade com facilidade, sem burocracia. Tenha sua propaganda no ar rapidamente com o INFLU-MARK.</p>
+
+  <button class="button">Começar agora</button>
+</div>
+
+
+  <!-- CARD 2 -->
+<div class="card2">
+  <div class="top-bar2"></div>
+  <div class="logo2">
+    <span class="logo-dot2"></span>
+    <span class="logo-text2">INFLU-MARK</span>
+  </div>
+  <h1 class="title2">RAPI<span class="title-yellow2">DEZ</span></h1>
+  <p class="text2">O INFLU-MARK preza pela rapidez de contato sempre, retornamos a sua proposta o mais rápido possível. </p>
+  <button class="button2">Começar agora</button>
+</div>
+
+<!-- CARD 3 -->
+<div class="card3">
+  <div class="top-bar3"></div>
+  <div class="logo3">
+    <span class="logo-dot3"></span>
+    <span class="logo-text3">INFLU-MARK</span>
+  </div>
+  <h1 class="title3">NEGOC<span class="title-yellow3">IE</span></h1>
+  <p class="text3">Negocie valores e prazos direto com o influenciador, sem intermediários. Tudo dentro da plataforma, com total transparência.</p>
+  <button class="button3">Começar agora</button>
+</div>
+
+<!-- CARD 4 -->
+<div class="card4">
+  <div class="top-bar4"></div>
+  <div class="logo4">
+    <span class="logo-dot4"></span>
+    <span class="logo-text4">INFLU-MARK</span>
+  </div>
+  <h1 class="title4">SEGU<span class="title-yellow4">RO</span></h1>
+  <p class="text4">Pague com segurança pela plataforma. O valor só é liberado ao criador após a entrega ser aprovada por você.</p>
+  <button class="button4">Começar agora</button>
+</div>
+     
+</body>
+</html>
