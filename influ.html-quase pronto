@@ -109,6 +109,8 @@
   <p class="text4">Pague com segurança pela plataforma. O valor só é liberado ao criador após a entrega ser aprovada por você.</p>
   <button class="button4">Começar agora</button>
 </div>
-     
+     <nav class="rodape">
+      <h1 class="title3">I<span style="color:rgb(255, 209, 3)">N</span>FLU-MA<span style="color: rgb(255, 209, 3);">R</span>K 
+     </nav>
 </body>
 </html>
